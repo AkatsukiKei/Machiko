@@ -50,3 +50,8 @@
 ##### Animated Day/Night Toggle Switch
 
 [https://dribbble.com/shots/5400711-Animated-Day-Night-Toggle-Switch](https://dribbble.com/shots/5400711-Animated-Day-Night-Toggle-Switch)
+
+##### Gender Toggle Switch
+
+[https://dribbble.com/shots/5078250-Gender-Toggle-Switch-1](https://dribbble.com/shots/5078250-Gender-Toggle-Switch-1)
+
