@@ -1,5 +1,5 @@
 # Machiko
-/* some funny sites/projects or something I want to implement */
+/* some funny sites/projects and something I want to implement */
 
 ### 有意思的~
 
